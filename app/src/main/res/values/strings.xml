@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="hint">Search User</string>
+    <string name="empty">Nothing to Show</string>
+    <string name="splashscreen">SplashScreen</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="setting">Setting Theme</string>
+    <string name="desc">TODO</string>
+    <string name="light">Light Mode</string>
+    <string name="dark">Dark Mode</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="count">100</string>
+
+</resources>
